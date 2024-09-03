@@ -18,3 +18,13 @@
 .text-overlay {
   font-size: 30px;
 }
+.newyear-text > h1 {
+  color: 255, 94, 0, 100;
+}
+.t-color {
+  color: orangered;
+}
+.offer {
+  justify-content: center;
+  text-align: center;
+}
